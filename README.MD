@@ -55,6 +55,9 @@ Some low-value passive designators are grouped/approximate - JLCPCB's BOM quote 
 
 Straight off the JLCPCB cart, nothing padded on top. Total order weight: 0.57kg.
 
+## Schematics
+[Schematic](Schematic.png)
+
 ## Milestones
 
 1. Design finalization - schematic + routing done
