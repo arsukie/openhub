@@ -25,14 +25,14 @@ Schematic + routing: done.
 
 | Designator(s) | Part | Qty | Package | Ext. Price |
 |---|---|---|---|---|
-| U2 | SL2.1A — USB 2.0 4-port hub controller | 1 | SOP-16 | $0.5060 |
-| U1 | SY6280AAC — current-limited power/load switch | 1 | SOT | $0.4770 |
+| U2 | SL2.1A - USB 2.0 4-port hub controller | 1 | SOP-16 | $0.5060 |
+| U1 | SY6280AAC - current-limited power/load switch | 1 | SOT | $0.4770 |
 | USBC1, USBC2, USBC3 | TYPE-C-31-M-12 USB-C connector (1 upstream, 2 downstream) | 3 | USB-C THT | $1.1082 |
 | USB1, USB2 | USB-231-ARY USB-A downstream connector | 2 | USB-A THT | $0.7728 |
-| R1, R2 | 5.1kΩ resistor — CC pull-down (Rd, upstream sink config) | 2 | 0603 | $0.0336 |
-| R3, R4, R5, R6 | 56kΩ resistor — CC pull-up (Rp, downstream source config) | 4 | 0603 | included |
-| R7 | 1kΩ resistor — status LED | 1 | 0805 | $0.1120 |
-| R8 | 4.7kΩ resistor — ISET current-limit set | 1 | 0603 | $0.2304 |
+| R1, R2 | 5.1kΩ resistor - CC pull-down (Rd, upstream sink config) | 2 | 0603 | $0.0336 |
+| R3, R4, R5, R6 | 56kΩ resistor - CC pull-up (Rp, downstream source config) | 4 | 0603 | included |
+| R7 | 1kΩ resistor - status LED | 1 | 0805 | $0.1120 |
+| R8 | 4.7kΩ resistor - ISET current-limit set | 1 | 0603 | $0.2304 |
 | LED1 | Status LED | 1 | SMD | $0.5580 |
 | C1, C2 | 10µF ceramic capacitor (rail decoupling) | 2 | 0805 | $0.3280 |
 | C10–C14 (approx.) | 10µF ceramic capacitor (per-port decoupling) | 5 | 0805 | $1.0460 |
@@ -40,15 +40,15 @@ Schematic + routing: done.
 | C3, C4 | 15pF ceramic capacitor (crystal load caps) | 2 | 0603 | $0.0552 |
 | X1 | 12MHz crystal | 1 | HC-49US | included |
 
-Some low-value passive designators are grouped/approximate — JLCPCB's BOM quote UI truncated the full designator list, so `C10–C14` and `C5–C9` are best-effort groupings, not gospel.
+Some low-value passive designators are grouped/approximate - JLCPCB's BOM quote UI truncated the full designator list, so `C10–C14` and `C5–C9` are best-effort groupings, not gospel.
 
 ## Budget
 
 | Item | Qty | Build Time | Price |
 |---|---|---|---|
-| Bare 4-layer PCB — unassembled variant (green, 1.6mm, HASL w/ lead) | 5 | 3–4 days | $7.00 |
-| Bare 2-layer PCB — main hub board (black, 1.6mm, HASL w/ lead) | 5 | 24 hours | $4.00 |
-| PCBA — 2-layer board, Economic assembly, top side | 5 | 2–3 days | $47.25 |
+| Bare 4-layer PCB - unassembled variant (green, 1.6mm, HASL w/ lead) | 5 | 3–4 days | $7.00 |
+| Bare 2-layer PCB - main hub board (black, 1.6mm, HASL w/ lead) | 5 | 24 hours | $4.00 |
+| PCBA - 2-layer board, Economic assembly, top side | 5 | 2–3 days | $47.25 |
 | **Merchandise total** | | | **$58.25** |
 | Shipping | | | $36.87 |
 | **Subtotal** | | | **$95.12** |
@@ -57,7 +57,7 @@ Straight off the JLCPCB cart, nothing padded on top. Total order weight: 0.57kg.
 
 ## Milestones
 
-1. Design finalization — schematic + routing done
+1. Design finalization - schematic + routing done
 
 
 
