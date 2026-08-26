@@ -57,6 +57,10 @@ Straight off the JLCPCB cart, nothing padded on top. Total order weight: 0.57kg.
 
 ## Schematics
 [Schematic](Schematic.png)
+<img herf = "Schematic.png">
+
+### 3D View
+
 
 ## Milestones
 
