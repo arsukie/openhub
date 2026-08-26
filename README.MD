@@ -60,7 +60,7 @@ Straight off the JLCPCB cart, nothing padded on top. Total order weight: 0.57kg.
 <img herf = "Schematic.png">
 
 ### 3D View
-[3D view]("3D View.jfif")
+[3D_view](3D_view.jfif)
 
 ## Milestones
 
