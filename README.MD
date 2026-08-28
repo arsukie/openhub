@@ -52,12 +52,8 @@ Schematic + routing: done.
 | Shipping | $18.21 |
 | **Subtotal** | **$68.28** |
 
-## Schematics
-[Schematic](Schematic.png)
-<img herf = "Schematic.png">
+## Cart
 
-### 3D View
-[3D_view](3D_view.png)
 
 ## Milestones
 
